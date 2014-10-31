@@ -1,1 +1,5 @@
 Bundle-Version: 0.0.0.${tstamp}
+-buildpath:  \
+	de.memory.api;version=latest
+Export-Package:  \
+	de.memory.gui
